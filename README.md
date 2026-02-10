@@ -9,7 +9,7 @@ This repository contains custom skills designed to enhance Claude's ability to a
 ## Skills Included
 
 ### 1. **UI/UX Pro Max** 📐
-**File:** `skills/ui-ux-pro-max/`
+**File:** `skills/ui-ux-pro-max/` | **Author:** @jameshsueh
 
 Comprehensive UI/UX design intelligence with searchable databases of:
 - 50+ UI design styles (glassmorphism, minimalism, brutalism, neumorphism, etc.)
@@ -28,12 +28,15 @@ Comprehensive UI/UX design intelligence with searchable databases of:
 
 **Technology:** Python 3, CSV-based data storage
 
-**Source:** Custom-developed skill system
+**Source:** 🛠️ **Custom-developed by James Hsueh**
+- Design trends and best practices curated from industry standards
+- UX guidelines synthesized from WCAG, Material Design, and modern web standards
+- Comprehensive original implementation with searchable database system
 
 ---
 
 ### 2. **Systematic Debugging** 🐛
-**File:** `skills/systematic-debugging/`
+**File:** `skills/systematic-debugging/` | **Author:** @jameshsueh
 
 A disciplined 4-phase approach to finding and fixing bugs without guessing or patching symptoms.
 
@@ -55,12 +58,15 @@ A disciplined 4-phase approach to finding and fixing bugs without guessing or pa
 
 **Technology:** Markdown-based guides with TypeScript examples
 
-**Source:** Custom-developed debugging methodology
+**Source:** 🛠️ **Custom-developed by James Hsueh**
+- Original methodology combining software engineering best practices
+- Inspired by scientific debugging principles and error analysis techniques
+- Comprehensive phase-based workflow with supporting techniques
 
 ---
 
 ### 3. **Writing Skills** 🛠️
-**File:** `skills/writing-skills/`
+**File:** `skills/writing-skills/` | **Author:** @jameshsueh
 
 Guide for creating effective, production-ready skills for Claude Code. Covers:
 - Skill structure and format
@@ -70,12 +76,14 @@ Guide for creating effective, production-ready skills for Claude Code. Covers:
 
 **Technology:** Markdown documentation
 
-**Source:** Custom skill development framework
+**Source:** 🛠️ **Custom-developed by James Hsueh**
+- Original skill development framework designed for Claude Code ecosystem
+- Best practices for skill architecture and workflow design
 
 ---
 
 ### 4. **Writing Plans** 📋
-**File:** `skills/writing-plans/`
+**File:** `skills/writing-plans/` | **Author:** @jameshsueh
 
 Systematic approach to planning software implementations before coding:
 - Requirements analysis
@@ -85,12 +93,14 @@ Systematic approach to planning software implementations before coding:
 
 **Technology:** Markdown-based planning templates
 
-**Source:** Custom planning methodology
+**Source:** 🛠️ **Custom-developed by James Hsueh**
+- Original planning methodology for software engineering tasks
+- Structured approach to architectural planning and design
 
 ---
 
 ### 5. **Subagent-Driven Development** 🤖
-**File:** `skills/subagent-driven-development/`
+**File:** `skills/subagent-driven-development/` | **Author:** @jameshsueh
 
 Framework for decomposing complex tasks into parallel sub-tasks, delegating work to specialized agents:
 - Task decomposition patterns
@@ -100,12 +110,14 @@ Framework for decomposing complex tasks into parallel sub-tasks, delegating work
 
 **Technology:** Markdown-based workflow guides
 
-**Source:** Custom agent orchestration methodology
+**Source:** 🛠️ **Custom-developed by James Hsueh**
+- Original agent orchestration framework for Claude Code
+- Patterns for parallel task execution and result synthesis
 
 ---
 
 ### 6. **Component Refactoring** ♻️
-**File:** `skills/component-refactoring/`
+**File:** `skills/component-refactoring/` | **Author:** @jameshsueh
 
 Specialized approach for refactoring high-complexity React components:
 - Complexity analysis (thresholds: >50 complexity, >300 lines)
@@ -117,12 +129,14 @@ Specialized approach for refactoring high-complexity React components:
 
 **Technology:** Markdown guides with React examples
 
-**Source:** Custom React optimization methodology
+**Source:** 🛠️ **Custom-developed by James Hsueh**
+- Original React optimization methodology
+- Patterns inspired by React official documentation and community best practices
 
 ---
 
 ### 7. **TDD (Test-Driven Development)** ✅
-**File:** `skills/tdd/`
+**File:** `skills/tdd/` | **Author:** @jameshsueh
 
 Test-driven development expert guide implementing RED-GREEN-REFACTOR cycle:
 - Writing failing tests first
@@ -133,12 +147,14 @@ Test-driven development expert guide implementing RED-GREEN-REFACTOR cycle:
 
 **Technology:** Markdown testing methodology
 
-**Source:** Custom TDD framework
+**Source:** 📚 **Based on established TDD principles**
+- Adapted from Kent Beck's Test-Driven Development methodology
+- Tailored for Claude Code workflow and Chinese-speaking developers
 
 ---
 
 ### 8. **DDD (Domain-Driven Design)** 🏛️
-**File:** `skills/ddd/`
+**File:** `skills/ddd/` | **Author:** Tech Community
 
 Domain-Driven Design methodology for complex software architecture:
 - Ubiquitous language
@@ -148,12 +164,14 @@ Domain-Driven Design methodology for complex software architecture:
 
 **Technology:** Markdown-based design patterns
 
-**Source:** Custom DDD methodology
+**Source:** 📚 **Based on established DDD principles**
+- Adapted from Eric Evans' Domain-Driven Design book
+- Standard patterns from the software architecture community
 
 ---
 
 ### 9. **Brainstorming** 💡
-**File:** `skills/brainstorming/`
+**File:** `skills/brainstorming/` | **Author:** @jameshsueh
 
 Structured creative problem-solving before implementation:
 - Requirements exploration
@@ -163,7 +181,9 @@ Structured creative problem-solving before implementation:
 
 **Technology:** Markdown workflow guide
 
-**Source:** Custom ideation methodology
+**Source:** 🛠️ **Custom-developed by James Hsueh**
+- Original ideation methodology for software development
+- Synthesized from design thinking and creative problem-solving techniques
 
 ---
 
@@ -247,23 +267,39 @@ See `skills/writing-skills/` for detailed guidance on skill creation.
 
 ## Data Sources & Attribution
 
-### UI/UX Pro Max Databases
+### Custom-Developed by James Hsueh 🛠️
 
-The design intelligence databases come from:
+These skills are original creations tailored for Claude Code:
 
-- **Color Palettes:** Industry-standard palettes for SaaS, e-commerce, healthcare, beauty, fintech, and service businesses
-- **Typography:** Google Fonts pairings curated for different design aesthetics
-- **Styles:** Modern design system trends (glassmorphism, minimalism, brutalism, neumorphism, bento grid, flat design, etc.)
-- **UX Guidelines:** Best practices from WCAG, material design, and modern web standards
-- **Tech Stack Guides:** Framework-specific patterns from official documentation
+- **UI/UX Pro Max** - Comprehensive design system with curated databases and Python search engine
+- **Systematic Debugging** - 4-phase debugging methodology combining science and engineering best practices
+- **Writing Skills** - Framework for creating Claude Code skills
+- **Writing Plans** - Architecture planning methodology for software development
+- **Subagent-Driven Development** - Agent orchestration patterns for parallel task execution
+- **Component Refactoring** - React-specific complexity management and optimization
+- **Brainstorming** - Creative problem-solving workflow for software design
 
-### Methodology Sources
+### Based on Established Principles from the Tech Community 📚
 
-- **Systematic Debugging:** Based on scientific debugging methodology and error analysis best practices
-- **TDD:** Classic red-green-refactor cycle from Kent Beck's TDD methodology
-- **DDD:** Eric Evans' Domain-Driven Design principles
-- **Component Refactoring:** React performance optimization patterns from official React docs
-- **UI/UX Guidelines:** Professional UI design best practices from design systems and accessibility standards
+These skills adapt well-known methodologies and best practices:
+
+- **TDD (Test-Driven Development)**
+  - Source: Kent Beck's Test-Driven Development methodology
+  - Adapted: Tailored for Claude Code workflow
+
+- **DDD (Domain-Driven Design)**
+  - Source: Eric Evans' Domain-Driven Design book
+  - Adapted: Standard patterns from software architecture community
+
+### Referenced Standards & Best Practices
+
+Throughout the skills, especially in UI/UX Pro Max and component design:
+
+- **Accessibility:** WCAG 2.1 guidelines and standards
+- **Design Systems:** Material Design, Tailwind CSS, industry design standards
+- **Frontend Frameworks:** Official documentation (React, Vue, Next.js, Svelte, Flutter, SwiftUI)
+- **Typography:** Google Fonts library and font pairing research
+- **UX Patterns:** Modern web standards and interaction design best practices
 
 ## Technology Stack
 
