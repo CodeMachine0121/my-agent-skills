@@ -4,17 +4,17 @@ A collection of specialized skills for Claude Code extending software engineerin
 
 ## Skills Overview
 
-| Skill | Description | Author |
-|-------|-------------|--------|
-| 🛠️ **UI/UX Pro Max** | Design system with 50+ styles, 21 palettes, 50 font pairings, 8 tech stacks | @jameshsueh |
-| 🐛 **Systematic Debugging** | 4-phase scientific debugging methodology | @jameshsueh |
-| 🛠️ **Writing Skills** | Framework for creating Claude Code skills | @jameshsueh |
-| 📋 **Writing Plans** | Software architecture planning methodology | @jameshsueh |
-| 🤖 **Subagent-Driven Development** | Agent orchestration & parallel task patterns | @jameshsueh |
-| ♻️ **Component Refactoring** | React component optimization & complexity management | @jameshsueh |
-| ✅ **TDD** | Test-driven development (RED-GREEN-REFACTOR) | Kent Beck + @jameshsueh |
-| 🏛️ **DDD** | Domain-driven design patterns | Eric Evans + Tech Community |
-| 💡 **Brainstorming** | Creative problem-solving workflow | @jameshsueh |
+| Skill | Description |
+|-------|-------------|
+| 🛠️ **UI/UX Pro Max** | Design system with 50+ styles, 21 palettes, 50 font pairings, 8 tech stacks |
+| 🐛 **Systematic Debugging** | 4-phase scientific debugging methodology |
+| 🛠️ **Writing Skills** | Framework for creating Claude Code skills |
+| 📋 **Writing Plans** | Software architecture planning methodology |
+| 🤖 **Subagent-Driven Development** | Agent orchestration & parallel task patterns |
+| ♻️ **Component Refactoring** | React component optimization & complexity management |
+| ✅ **TDD** | Test-driven development (RED-GREEN-REFACTOR) |
+| 🏛️ **DDD** | Domain-driven design patterns |
+| 💡 **Brainstorming** | Creative problem-solving workflow |
 
 ## Directory Structure
 
